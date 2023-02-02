@@ -343,3 +343,4 @@ fn cmd_capabilities() -> Result<()> {
     println!();
     Ok(())
 }
+
